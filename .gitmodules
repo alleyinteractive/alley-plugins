@@ -1,0 +1,6 @@
+[submodule "fm-widgets"]
+	path = fm-widgets
+	url = git@github.com:alleyinteractive/fm-widgets.git
+[submodule "fm-zones"]
+	path = fm-zones
+	url = git@github.com:alleyinteractive/fm-zones.git
