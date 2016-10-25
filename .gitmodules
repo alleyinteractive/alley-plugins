@@ -4,3 +4,6 @@
 [submodule "fm-zones"]
 	path = fm-zones
 	url = git@github.com:alleyinteractive/fm-zones.git
+[submodule "es-admin"]
+	path = es-admin
+	url = git@github.com:alleyinteractive/es-admin.git
