@@ -7,3 +7,12 @@
 [submodule "es-admin"]
 	path = es-admin
 	url = git@github.com:alleyinteractive/es-admin.git
+[submodule "s3-direct-attachments"]
+	path = s3-direct-attachments
+	url = git@github.com:alleyinteractive/s3-direct-attachments.git
+[submodule "https-audit"]
+	path = https-audit
+	url = git@github.com:alleyinteractive/https-audit.git
+[submodule "simplechart"]
+	path = simplechart
+	url = git@github.com:alleyinteractive/wordpress-simplechart.git
