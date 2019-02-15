@@ -10,3 +10,6 @@
 [submodule "s3-direct-attachments"]
 	path = s3-direct-attachments
 	url = git@github.com:alleyinteractive/s3-direct-attachments.git
+[submodule "https-audit"]
+	path = https-audit
+	url = git@github.com:alleyinteractive/https-audit.git
