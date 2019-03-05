@@ -16,3 +16,6 @@
 [submodule "vip-https-support"]
 	path = vip-https-support
 	url = git@github.com:alleyinteractive/vip-https-support.git
+[submodule "simplechart"]
+	path = simplechart
+	url = git@github.com:alleyinteractive/wordpress-simplechart.git
