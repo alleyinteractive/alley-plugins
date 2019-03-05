@@ -13,9 +13,6 @@
 [submodule "https-audit"]
 	path = https-audit
 	url = git@github.com:alleyinteractive/https-audit.git
-[submodule "simplechart"]
-	path = simplechart
-	url = git@github.com:alleyinteractive/simplechart.git
 [submodule "vip-https-support"]
 	path = vip-https-support
 	url = git@github.com:alleyinteractive/vip-https-support.git
